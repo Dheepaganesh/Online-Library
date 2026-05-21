@@ -14,7 +14,7 @@ A React online library app built with Vite, React Router, Redux Toolkit, and Tai
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Dheepaganesh/Online-Library.git
 cd Online-Library
 
 # Install dependencies
